@@ -1,0 +1,7 @@
+What is Python Language?
+       Python is a widely used high_level ,general_purpose,interpreted,
+       dynamic programminglanguage.
+       Its design philosophy emphasizes code readability, and its syntax allows
+       programmers to express concept in fewer lines of code than possible
+       in language such as c++ or java.
+       python supporting multiple programming 
